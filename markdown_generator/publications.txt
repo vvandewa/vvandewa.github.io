@@ -1,0 +1,4 @@
+pub_date	title	venue	excerpt	citation	url_slug	paper_url
+01/01/2020	Multi-Partitions Subspace Clustering	Mathemtics		"Vincent Vandewalle (2020). ""Multi-Partitions Subspace Clustering"". In : <i>Mathematics</i> 8.4, p. 597"	paper-title-number-1	
+01/10/2010	Gaussian- Based Visualization of Gaussian and Non-Gaussian-Based Clustering	Journal of Classification		"Christophe Biernacki, Matthieu Marbac et Vincent Vandewalle (2020). ""Gaussian- Based Visualization of Gaussian and Non-Gaussian-Based Clustering"". In : <i>Journal of Classification</i>."	paper-title-number-2	
+01/10/2015	Paper Title Number 3	Journal 1		"Your Name, You. (2015). ""Paper Title Number 3."" <i>Journal 1</i>. 1(3)."	paper-title-number-3	
