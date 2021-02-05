@@ -11,7 +11,7 @@ redirect_from:
 Current position
 ======
 
-I am Assistant Professor in applied mathematics (speciality statistics) in the STID department of the IUT C of the University of Lille since 2010. Since my recruitment I am a member of the ULR 2694 METRICS "Health Technology Assessment and Medical Practice" and of the MODAL \og MOdel for Data Analysis and Learning \fg team of Inria Lille Nord Europe. I obtained my HDR on January 7, 2021.  
+I am Assistant Professor in applied mathematics (speciality statistics) in the STID department of the IUT C of the University of Lille since 2010. Since my recruitment I am a member of the [ULR 2694 METRICS](http://ea2694.univ-lille2.fr/accueil.html) "Health Technology Assessment and Medical Practice" and of the [MODAL](https://team.inria.fr/modal/) "MOdel for Data Analysis and Learning" team of Inria Lille Nord Europe. I obtained my HDR on January 7, 2021.  
 
 
 

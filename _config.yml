@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vincent Vandewalle / Assistant professor, University of Lille"
+title                    : "Vincent Vandewalle"
 title_separator          : "-"
 name                     : &name "Vincent Vandewalle"
 description              : &description "Assistant professor, University of Lille"
