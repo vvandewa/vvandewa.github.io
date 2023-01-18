@@ -11,7 +11,16 @@ redirect_from:
 Current position
 ======
 
-I am Assistant Professor in applied mathematics (speciality statistics) in the STID department of the IUT C of the University of Lille since 2010. Since my recruitment I am a member of the [ULR 2694 METRICS](http://ea2694.univ-lille2.fr/accueil.html) "Health Technology Assessment and Medical Practice" and of the [MODAL](https://team.inria.fr/modal/) "MOdel for Data Analysis and Learning" team of Inria Lille Nord Europe. I obtained my HDR on January 7, 2021.  
+I am Professor in applied mathematics (speciality statistics) in [Université Côte d'Azur](https://univ-cotedazur.fr) since 2022. I am member of the of [probabilities and staticitic team](https://math.unice.fr/laboratoire/equipes-de-recherche/probabilités-et-statistique.html) of the [J.A. Dieudonné Laborary](https://math.unice.fr), and of the [MAASAI](https://team.inria.fr/maasai/) team of the [Inria Center of Université Côte d'Azur](https://www.inria.fr/fr/centre-inria-universite-cote-azur). 
+
+I hold a Chair in Artificial Intelligence from the [3IA Côte d'Azur insititute](https://3ia.univ-cotedazur.eu) in the [Core Elements of AI](https://3ia.univ-cotedazur.eu/research/chairs-core-elements-of-ai) axis of the institute. My chair is entitled [Finding structure in heterogeneous data](https://3ia.univ-cotedazur.eu/research/3ia-chair-holders/core-elements-of-ai](https://3ia.univ-cotedazur.eu/research/chair-holder-vincent-vandewalle).  
+
+I am deputy scientific director of the [EFELIA Côte d'Azur project](https://univ-cotedazur.fr/efelia-cote-dazur), a five-year ANR CMA project to massify AI training in all domains of Université Côte d'Azur.
+
+Previous position
+======
+
+Previously, I was Assistant Professor in applied mathematics (speciality statistics) in the STID department of the IUT C of the University of Lille from 2010 to 2022. I was a member of the [ULR 2694 METRICS](http://ea2694.univ-lille2.fr/accueil.html) "Health Technology Assessment and Medical Practice" and of the [MODAL](https://team.inria.fr/modal/) "MOdel for Data Analysis and Learning" team of Inria Lille Nord Europe.
 
 
 
@@ -26,7 +35,5 @@ I have fed my methodological research with applied problems. On the one hand in 
 Teaching 
 ======
 
-My teaching activities are mainly in DUT STID (level L1, L2) for the teaching of statistics and computer science, in particular through the use of software such as R or SAS. I also teach in professional license SID (L3) automatic learning among others. 
 
-I also teach occassionnaly at M1 and M2 levels at Polytech'Lille IS in supervised classification and biostatistics, as well as at ILIS (Lille Health Institute) in introduction to Bayesian statistics.
 
