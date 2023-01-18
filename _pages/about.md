@@ -13,7 +13,7 @@ Current position
 
 I am Professor in applied mathematics (speciality statistics) in [Université Côte d'Azur](https://univ-cotedazur.fr) since 2022. I am member of the of [probabilities and staticitic team](https://math.unice.fr/laboratoire/equipes-de-recherche/probabilités-et-statistique.html) of the [J.A. Dieudonné Laborary](https://math.unice.fr), and of the [MAASAI](https://team.inria.fr/maasai/) team of the [Inria Center of Université Côte d'Azur](https://www.inria.fr/fr/centre-inria-universite-cote-azur). 
 
-I hold a Chair in Artificial Intelligence from the [3IA Côte d'Azur insititute](https://3ia.univ-cotedazur.eu) in the [Core Elements of AI](https://3ia.univ-cotedazur.eu/research/chairs-core-elements-of-ai) axis of the institute. My chair is entitled [Finding structure in heterogeneous data](https://3ia.univ-cotedazur.eu/research/3ia-chair-holders/core-elements-of-ai](https://3ia.univ-cotedazur.eu/research/chair-holder-vincent-vandewalle).  
+I hold a Chair in Artificial Intelligence from the [3IA Côte d'Azur insititute](https://3ia.univ-cotedazur.eu) in the [Core Elements of AI](https://3ia.univ-cotedazur.eu/research/chairs-core-elements-of-ai) axis of the institute. My chair is entitled [Finding structure in heterogeneous data](https://3ia.univ-cotedazur.eu/research/chair-holder-vincent-vandewalle).  
 
 I am deputy scientific director of the [EFELIA Côte d'Azur project](https://univ-cotedazur.fr/efelia-cote-dazur), a five-year ANR CMA project to massify AI training in all domains of Université Côte d'Azur.
 
