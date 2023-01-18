@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vincent Vandewalle"
 title_separator          : "-"
 name                     : &name "Vincent Vandewalle"
-description              : &description "Assistant professor in statistics, University of Lille"
+description              : &description "Professor in statistics, Université Côte d'Azur"
 url                      : https://vvandewa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vvandewa/vvandewa.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Vincent Vandewalle"
   avatar           : "bio-photo.jpg"
-  bio              : "Assistant professor, University of Lille"
-  location         : "Lille, France"
+  bio              : "Professor, Université Côte d'Azur"
+  location         : ""
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=uI869JgAAAAJ"
