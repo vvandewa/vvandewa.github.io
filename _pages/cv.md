@@ -13,7 +13,11 @@ redirect_from:
 Work experience
 ======
 
-* **2010-today:** Assistant professor, Lille University, IUT C, STID department
+* **2022-Today:** Professor, Université Côte d'Azur
+  * Affiliations
+    *  J.A. Dieudonné Laborary (UMR CNRS 7351)
+    *  Inria de l'Université Côte d'Azur: Project-Team MAASAI
+* **2010-2022:** Assistant professor, Lille University, IUT C, STID department
   * Affiliations
     * ULR 2694: METRICS, 
     * Inria Lille: Project-Team MODAL
@@ -23,6 +27,9 @@ Work experience
 Highlights
 ------
 
+
+* **2022-today:** 3IA Côte d'Azur chair in Artificial Intelligence
+* **2022-today:** Deputy Scientific director of the EFELIA Côte d'Azur project
 * **2020-2021:** Delegation Inria
 * **2016-2017:** CRCT (leave for research)
 * **2012-2015:** Chief of STID departement
